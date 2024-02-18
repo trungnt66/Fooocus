@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v20.safetensors",
+    "default_model": "Realistic_Vision_V6.0_NV_B1.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v20.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/blob/main/Realistic_Vision_V6.0_NV_B1.safetensors"
+        "Realistic_Vision_V6.0_NV_B1.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/blob/main/Realistic_Vision_V6.0_NV_B1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
